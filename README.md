@@ -1,2 +1,2 @@
 # demo2
-learn git &amp; github
+learn git &amp; github.
