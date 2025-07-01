@@ -5,4 +5,4 @@ learn git &amp; github.
 vaishnavi deshmukh
 
 # Student
-delta student
+ student
